@@ -41,7 +41,6 @@
 
     bind = $main, S, exec, hyprshot -m region --clipboard-only
     bind = $main, V, exec, hyprpicker -a
-    bind = $main, L, exec, hyprlock
     bind = $main, C, killactive,
 
     bind = $main, F, togglefloating

@@ -4,10 +4,10 @@
 - Waybar
 - Vim
 
-### Hyprland binds:
+## Hyprland binds:
 *super-meta-win-main*
 
-# Programs
+#### Programs
 - main + Q = **open** terminal (alacritty)
 - main + C = **close** the window
 - main + B = open browser (firefox)

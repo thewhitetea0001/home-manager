@@ -17,9 +17,6 @@
     exec-once = swaync
     exec-once = waybar
 
-    exec-once = hyprctl dispatch workspace 1 && firefox
-    exec-once = hyprctl dispatch workspace 2 && discord
-
     # Keyboard ____________________________________________________________
     input {
       kb_layout = us,ru,sk
